@@ -1,0 +1,3 @@
+[] name changes
+    [] split names for each animal
+    [] background changing
