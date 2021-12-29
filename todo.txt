@@ -3,3 +3,7 @@
     [x] background changing
 
 [] page flipping
+
+[] add animals
+    [] images
+    [] meta-data

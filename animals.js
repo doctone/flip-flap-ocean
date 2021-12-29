@@ -60,7 +60,7 @@ export default class Book {
                 'name-upper' : 'l',
                 'name-lower' : 'obster',
                 'upper-img' : './flip-flap-imgs/lob-top.png',
-                'lower-img' : './flip-flap-imgs/lobster-bottom.pgn',
+                'lower-img' : './flip-flap-imgs/lobster-bottom.png',
                 'background-hex' : '#f2437b',
                 'poem' : {
                     'upper' : "",
@@ -70,9 +70,9 @@ export default class Book {
             'whale' : {
                     'name-upper' : 'wh',
                     'name-lower' : 'ale',
-                    'upper-img' : './flip-flap-imgs/whale-top.pgn',
-                    'lower-img' : './flip-flap-imgs/whale-bottom.pgn',
-                    'background-hex' : '',
+                    'upper-img' : './flip-flap-imgs/whale-top.png',
+                    'lower-img' : './flip-flap-imgs/whale-bottom.png',
+                    'background-hex' : '#e7cc00',
                     'poem' : {
                         'upper' : "",
                         'lower' : ""
@@ -81,9 +81,9 @@ export default class Book {
             'dolphin' : {
                 'name-upper' : 'dolph',
                 'name-lower' : 'in',
-                'upper-img' : './flip-flap-imgs/dolphin-top.pgn',
-                'lower-img' : './flip-flap-imgs/dolphin-bottom.pgn',
-                'background-hex' : '',
+                'upper-img' : './flip-flap-imgs/dolphin-top.png',
+                'lower-img' : './flip-flap-imgs/dolphin-bottom.png',
+                'background-hex' : '#ff4400',
                 'poem' : {
                     'upper' : "",
                     'lower' : ""
@@ -92,9 +92,9 @@ export default class Book {
             'jellyfish' : {
                 'name-upper' : 'jellyf',
                 'name-lower' : 'ish',
-                'upper-img' : './flip-flap-imgs/jelly-top.pgn',
-                'lower-img' : './flip-flap-imgs/jelly-bottom.pgn',
-                'background-hex' : '',
+                'upper-img' : './flip-flap-imgs/jelly-top.png',
+                'lower-img' : './flip-flap-imgs/jelly-bottom.png',
+                'background-hex' : '#d6d14e',
                 'poem' : {
                     'upper' : "",
                     'lower' : ""
@@ -103,9 +103,9 @@ export default class Book {
             'turtle' : {
                 'name-upper' : 't',
                 'name-lower' : 'urtle',
-                'upper-img' : './flip-flap-imgs/turtle-top.pgn',
-                'lower-img' : './flip-flap-imgs/turtle-bottom.pgn',
-                'background-hex' : '',
+                'upper-img' : './flip-flap-imgs/turtle-top.png',
+                'lower-img' : './flip-flap-imgs/turtle-bottom.png',
+                'background-hex' : '#9fc5c2',
                 'poem' : {
                     'upper' : "",
                     'lower' : ""
@@ -114,9 +114,9 @@ export default class Book {
             'squid' : {
                 'name-upper' : 'squ',
                 'name-lower' : 'id',
-                'upper-img' : './flip-flap-imgs/squid-top.pgn',
-                'lower-img' : './flip-flap-imgs/squid-bottom.pgn',
-                'background-hex' : '',
+                'upper-img' : './flip-flap-imgs/squid-top.png',
+                'lower-img' : './flip-flap-imgs/squid-bottom.png',
+                'background-hex' : '#00a35f',
                 'poem' : {
                     'upper' : "",
                     'lower' : ""
