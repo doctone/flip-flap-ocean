@@ -57,8 +57,8 @@ export default class Book {
                 }
             },
             'lobster' : {
-                'name-upper' : 'l',
-                'name-lower' : 'obster',
+                'name-upper' : 'lobst',
+                'name-lower' : 'er',
                 'upper-img' : './flip-flap-imgs/lob-top.png',
                 'lower-img' : './flip-flap-imgs/lobster-bottom.png',
                 'background-hex' : '#f2437b',
@@ -90,8 +90,8 @@ export default class Book {
                 }
             },
             'jellyfish' : {
-                'name-upper' : 'jellyf',
-                'name-lower' : 'ish',
+                'name-upper' : 'jell',
+                'name-lower' : 'yfish',
                 'upper-img' : './flip-flap-imgs/jelly-top.png',
                 'lower-img' : './flip-flap-imgs/jelly-bottom.png',
                 'background-hex' : '#d6d14e',
