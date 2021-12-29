@@ -4,8 +4,8 @@ export default class Book {
             'crab' : {
                 'name-upper' : 'cr',
                 'name-lower' : 'ab',
-                'upper-img' : 'flip-flap-imgs/crab-top.png',
-                'lower-img' : 'flip-flap-imgs/crab-bottom.png',
+                'upper-img' : './flip-flap-imgs/crab-top.png',
+                'lower-img' : './flip-flap-imgs/crab-bottom.png',
                 'background-hex' : '#88D213',
                 'poem' : {
                     'upper' : "My claws are clicky-clacky and I use them when I fight. My eyes are up on little stalks to give me better sight",
@@ -15,8 +15,8 @@ export default class Book {
             'seal' : {
                 'name-upper' : 's',
                 'name-lower' : 'eal',
-                'upper-img' : 'flip-flap-imgs/seal-top.png',
-                'lower-img' : 'flip-flap-imgs/seal-bottom.png',
+                'upper-img' : './flip-flap-imgs/seal-top.png',
+                'lower-img' : './flip-flap-imgs/seal-bottom.png',
                 'background-hex' : '#01C4ED',
                 'poem' : {
                     'upper' : "I'm noisy when I want my food, you'll hear me far and wide. I look quite like a seal but I have ear flaps on each side",
@@ -26,8 +26,8 @@ export default class Book {
             'shark' : {
                 'name-upper' : 'sh',
                 'name-lower' : 'ark',
-                'upper-img' : 'flip-flap-imgs/shark-top.png',
-                'lower-img' : 'flip-flap-imgs/shark-bottom.png',
+                'upper-img' : './flip-flap-imgs/shark-top.png',
+                'lower-img' : './flip-flap-imgs/shark-bottom.png',
                 'background-hex' : '#01C4ED',
                 'poem' : {
                     'upper' : "You'll see my fin from far away as it stands up so tall. My jaws are full of pointy teeth, I've hundreds all in all!",
@@ -37,8 +37,8 @@ export default class Book {
             'octopus' : {
                 'name-upper' : 'octop',
                 'name-lower' : 'us',
-                'upper-img' : 'flip-flap-imgs/octo-top.png',
-                'lower-img' : 'flip-flap-imgs/octo-bottom.png',
+                'upper-img' : './flip-flap-imgs/octo-top.png',
+                'lower-img' : './flip-flap-imgs/octo-bottom.png',
                 'background-hex' : '#8B01C9',
                 'poem' : {
                     'upper' : "My eyesight is fantastic and my head is rather wide. I change my colour if I'm scared and then I'll try to hide ",
@@ -48,12 +48,78 @@ export default class Book {
             'tang' : {
                 'name-upper' : 't',
                 'name-lower' : 'ang',
-                'upper-img' : 'flip-flap-imgs/tang-top.png',
-                'lower-img' : 'flip-flap-imgs/tang-bottom.png',
+                'upper-img' : './flip-flap-imgs/tang-top.png',
+                'lower-img' : './flip-flap-imgs/tang-bottom.png',
                 'background-hex' : '#bb9c48',
                 'poem' : {
                     'upper' : "I'm flat just like a pancake and my body's fairly round. I live in a small group or pair - we hardly make a sound!",
                     'lower' : "When I lay eggs I like to change, from dark to quite pale blue. I mainly munch on plankton, but I do like algae too."
+                }
+            },
+            'lobster' : {
+                'name-upper' : 'l',
+                'name-lower' : 'obster',
+                'upper-img' : './flip-flap-imgs/lob-top.png',
+                'lower-img' : './flip-flap-imgs/lobster-bottom.pgn',
+                'background-hex' : '#f2437b',
+                'poem' : {
+                    'upper' : "",
+                    'lower' : ""
+                }
+            },
+            'whale' : {
+                    'name-upper' : 'wh',
+                    'name-lower' : 'ale',
+                    'upper-img' : './flip-flap-imgs/whale-top.pgn',
+                    'lower-img' : './flip-flap-imgs/whale-bottom.pgn',
+                    'background-hex' : '',
+                    'poem' : {
+                        'upper' : "",
+                        'lower' : ""
+                    }
+            },
+            'dolphin' : {
+                'name-upper' : 'dolph',
+                'name-lower' : 'in',
+                'upper-img' : './flip-flap-imgs/dolphin-top.pgn',
+                'lower-img' : './flip-flap-imgs/dolphin-bottom.pgn',
+                'background-hex' : '',
+                'poem' : {
+                    'upper' : "",
+                    'lower' : ""
+                }
+            },
+            'jellyfish' : {
+                'name-upper' : 'jellyf',
+                'name-lower' : 'ish',
+                'upper-img' : './flip-flap-imgs/jelly-top.pgn',
+                'lower-img' : './flip-flap-imgs/jelly-bottom.pgn',
+                'background-hex' : '',
+                'poem' : {
+                    'upper' : "",
+                    'lower' : ""
+                }
+            },
+            'turtle' : {
+                'name-upper' : 't',
+                'name-lower' : 'urtle',
+                'upper-img' : './flip-flap-imgs/turtle-top.pgn',
+                'lower-img' : './flip-flap-imgs/turtle-bottom.pgn',
+                'background-hex' : '',
+                'poem' : {
+                    'upper' : "",
+                    'lower' : ""
+                }
+            },
+            'squid' : {
+                'name-upper' : 'squ',
+                'name-lower' : 'id',
+                'upper-img' : './flip-flap-imgs/squid-top.pgn',
+                'lower-img' : './flip-flap-imgs/squid-bottom.pgn',
+                'background-hex' : '',
+                'poem' : {
+                    'upper' : "",
+                    'lower' : ""
                 }
             }
         }
