@@ -63,8 +63,8 @@ export default class Book {
                 'lower-img' : './flip-flap-imgs/lobster-bottom.png',
                 'background-hex' : '#f2437b',
                 'poem' : {
-                    'upper' : "",
-                    'lower' : ""
+                    'upper' : "I like to snap my pincers. Please don't think I'm being rude! My sense of smell is excellent - that's how I find my food!",
+                    'lower' : "I use my long and spindly legs to cross the sandy bed. And sometimes I propel myself the other way instead."
                 }
             },
             'whale' : {
@@ -74,8 +74,8 @@ export default class Book {
                     'lower-img' : './flip-flap-imgs/whale-bottom.png',
                     'background-hex' : '#e7cc00',
                     'poem' : {
-                        'upper' : "",
-                        'lower' : ""
+                        'upper' : "I am the biggest animal that you will ever see. I'm taller than a building and as heavy as can be.",
+                        'lower' : "I can't breathe underwater so I surface to breathe air. Most fish will swim away from me - I give them all a scare!"
                     }
             },
             'dolphin' : {
@@ -85,8 +85,8 @@ export default class Book {
                 'lower-img' : './flip-flap-imgs/dolphin-bottom.png',
                 'background-hex' : '#ff4400',
                 'poem' : {
-                    'upper' : "",
-                    'lower' : ""
+                    'upper' : "My beak and tail are powerful, but don't be scared of me! I click and whistle as I swim and have fun in the sea.",
+                    'lower' : "I love to dive and race my friends, I'm never, EVER slow. My fins and flippers help me control which way I go."
                 }
             },
             'jellyfish' : {
@@ -96,8 +96,8 @@ export default class Book {
                 'lower-img' : './flip-flap-imgs/jelly-bottom.png',
                 'background-hex' : '#d6d14e',
                 'poem' : {
-                    'upper' : "",
-                    'lower' : ""
+                    'upper' : "I'm mostly made of water so I wobble to and fro. And deep beneathe the ocean I can make my body glow.",
+                    'lower' : "The current moves me gracefully, I float past everything. My tentacles are very long - don't touch them or they'll sting!"
                 }
             },
             'turtle' : {
@@ -107,8 +107,8 @@ export default class Book {
                 'lower-img' : './flip-flap-imgs/turtle-bottom.png',
                 'background-hex' : '#9fc5c2',
                 'poem' : {
-                    'upper' : "",
-                    'lower' : ""
+                    'upper' : "My sturdy shell protects me from the dangers in the sea. It's hard and wide which means that no one else will munch on me!",
+                    'lower' : "My flippers are like paddles and they help me to swim fast. But if there was race on land I'm slow, so I'd come last."
                 }
             },
             'squid' : {
@@ -118,8 +118,8 @@ export default class Book {
                 'lower-img' : './flip-flap-imgs/squid-bottom.png',
                 'background-hex' : '#00a35f',
                 'poem' : {
-                    'upper' : "",
-                    'lower' : ""
+                    'upper' : "My eyes are big and so' my brain, in fact, I'm very smart. My beak is sharp and pointy and I've got three tiny hearts!",
+                    'lower' : "I've also got two tentacles and arms with suckers, too. And when I'm scared I'll squirt out ink - it's think and blackish-blue"
                 }
             }
         }
