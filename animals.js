@@ -12,9 +12,9 @@ export default class Book {
                     'lower' : "I fir through narrow spaces as my body is quite flat. And as for scuttling sideways, well - I am the best at that!"
                 }
             },
-            'seal' : {
-                'name-upper' : 's',
-                'name-lower' : 'eal',
+            'sealion' : {
+                'name-upper' : 'sal',
+                'name-lower' : 'ion',
                 'upper-img' : './flip-flap-imgs/seal-top.png',
                 'lower-img' : './flip-flap-imgs/seal-bottom.png',
                 'background-hex' : '#01C4ED',
