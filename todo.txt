@@ -1,3 +1,5 @@
-[] name changes
-    [] split names for each animal
-    [] background changing
+[x] name changes
+    [x] split names for each animal
+    [x] background changing
+
+[] page flipping

@@ -92,7 +92,6 @@ export default class Book {
 
     changePoem(animal, area, half){
         const container = document.querySelector(area);
-        // console.log(container);
         container.innerHTML = animal['poem'][half]
 
     }
