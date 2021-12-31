@@ -5,11 +5,17 @@
     body {
       font-size: 10px;
     }
+    .binder {
+        transform: translateX(10px);
+    }
   }
 
   @media only screen and (max-width: 800px) {
     body {
       font-size: 5px;
+    }
+    .binder {
+        transform: translateX(2.5em);
     }
   }
 
@@ -80,7 +86,7 @@ body {
 .poem {
     display: flex;
     flex-direction: column;
-    width: 90%;
+    width: 80%;
     height: 100%;
     text-align: center;
     align-items: center;

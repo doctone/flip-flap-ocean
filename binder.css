@@ -1,9 +1,10 @@
 .binder {
     border-radius: 50%;
-    border: 1px solid black;
+    border: 3px solid black;
     align-self: flex-end;
     height: 6%;
-    width: 8%;
+    width: 50%;
+    transform: translatex(1em);
 }
 
 .binder-container {
