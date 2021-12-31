@@ -1,0 +1,14 @@
+.binder {
+    border-radius: 50%;
+    border: 1px solid black;
+    align-self: flex-end;
+    height: 6%;
+    width: 8%;
+}
+
+.binder-container {
+    width: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
