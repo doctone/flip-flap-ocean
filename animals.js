@@ -132,7 +132,7 @@ export default class Book {
         this.topContainer = document.querySelector('.img-top');
         this.bottomContainer = document.querySelector('.img-bottom');
         
-        //change images
+        // change data of top half
         this.topContainer.addEventListener('click', (event) => {
             const animals = Object.keys(this.animals);
             event.target.src = this.animals[animals[this.i]]['upper-img'];
@@ -140,7 +140,7 @@ export default class Book {
             this.changePoem(this.animals[animals[this.i]], '.p-top', 'upper')
             this.i == animals.length-1 ? this.i = 0 : this.i++
         });
-        
+        // change data of bottom half
         this.bottomContainer.addEventListener('click', (event) => {
             const animals = Object.keys(this.animals);
             event.target.src = this.animals[animals[this.j]]['lower-img'];
@@ -148,8 +148,10 @@ export default class Book {
             this.changePoem(this.animals[animals[this.j]], '.p-bot', 'lower')
             this.j == animals.length-1 ? this.j = 0 : this.j++
         });
+        
+        
     }
-        //change names
+    //change names
     changeName(animal, area, rename){
         const name = document.querySelector(area);
         name.innerHTML = animal[rename];
